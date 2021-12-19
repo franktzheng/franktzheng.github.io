@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkinsecure_ramblings=self.webpackChunkinsecure_ramblings||[]).push([[672],{235:function(e,n,t){t.r(n);var r=t(294),l=t(444);n.default=function(){return r.createElement("main",null,r.createElement("h1",null,"Test"),r.createElement(l.rU,{to:"/"},"Home"))}}}]);
+//# sourceMappingURL=component---src-pages-test-js-a27c92f6928971a84289.js.map

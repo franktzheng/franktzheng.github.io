@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkinsecure_ramblings=self.webpackChunkinsecure_ramblings||[]).push([[678],{704:function(e,n,t){t.r(n);var l=t(294),r=t(444);n.default=function(){return l.createElement("main",null,l.createElement("h1",null,"insecure ramblings"),l.createElement("p",null,"There is nothing here (yet)"),l.createElement("p",null,"Some links for you to click :D"),l.createElement(r.rU,{to:"/404"},"404"),l.createElement("br",null),l.createElement(r.rU,{to:"test"},"Test"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-35ce9ebc6817baa26dc1.js.map
