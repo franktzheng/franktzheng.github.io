@@ -1,17 +1,31 @@
 table {
-    border-collapse: collapse;
+    border: 1px solid #bababa; border-collapse: collapse;
     width: 100%;
 }
 
 th, td {
-    border: 1px solid black;
-    padding: 0.125em 0.25em;
+    border: 1px solid #bababa;
+    padding: 0.375em 0.375em;
+    text-align: left;
 }
 
 body {
     margin: 0;
     padding: 0;
-    font-family: Charter;
+    font-family: 'Lora', Charter;
+    line-height: 1.5;
+}
+
+.katex {
+    font-size: 1.1em !important;
+}
+
+h1, h2, h3, th {
+    font-weight: 600;
+}
+
+b {
+    font-weight: 600;
 }
 
 .container {
@@ -31,3 +45,4 @@ body {
 .citation-label {
     text-align: right;
 }
+
