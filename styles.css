@@ -20,6 +20,14 @@ body {
     font-size: 1.1em !important;
 }
 
+h1 {
+    font-size: 1.75em;
+}
+
+h2 {
+    font-size: 1.25em;
+}
+
 h1, h2, h3, th {
     font-weight: 600;
 }
