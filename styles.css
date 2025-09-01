@@ -1,12 +1,15 @@
 table {
-    border: 1px solid #bababa; border-collapse: collapse;
+    border: 1px solid #bababa;
+    border-collapse: collapse;
     width: 100%;
 }
 
-th, td {
+th,
+td {
     border: 1px solid #bababa;
     padding: 0.375em 0.375em;
     text-align: left;
+    vertical-align: top;
 }
 
 body {
@@ -28,7 +31,10 @@ h2 {
     font-size: 1.25em;
 }
 
-h1, h2, h3, th {
+h1,
+h2,
+h3,
+th {
     font-weight: 600;
 }
 
@@ -53,4 +59,3 @@ b {
 .citation-label {
     text-align: right;
 }
-
